@@ -23,7 +23,7 @@ with it
   '''Javascript   
   Console ("Hello")   
   '''       
-  this code is created by [yvesdylane]_(http://example.com)   
+  this code is created by [yvesdylane](http://example.com)   
   
   
 
