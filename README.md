@@ -5,7 +5,10 @@
 ##### Heading 5
 ###### Heading 6   
 git hub is dealing with me but i will deal  
-with it    
+with it   
+*home*   
+_school   
+**hospital**   
 
 
  
