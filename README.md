@@ -18,11 +18,12 @@ with it
 - sub item   
    '<h1>'i'm tired already'</h1>'
   '''cmd
-  git clone <URL>
-  '''
-  '''Javascript
-  Console ("Hello")
-  '''
+  git clone <URL>   
+  '''   
+  '''Javascript   
+  Console ("Hello")   
+  '''       
+  this code is created by [yvesdylane]_(http://example.com)   
   
   
 
